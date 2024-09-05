@@ -13,7 +13,7 @@ window.onscroll = () => {
 
 /* typing text animation */
 const typed = new Typed('.multiple-text', {
-    strings: ['Fullstack Developer', 'Data Analyst', 'AI/ML Developer', 'Speaker', 'Writer'],
+    strings: ['Fullstack Developer', 'Data Analyst', 'AI/ML Enthusiast', 'Speaker', 'Writer'],
     typeSpeed: 80,
     backSpeed: 80,
     backDelay: 1200,
